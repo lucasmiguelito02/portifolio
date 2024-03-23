@@ -1,10 +1,9 @@
-import { useState } from 'react'
+import Home from "./pages/Home"
 
-
-const  App = () => {
+const App = () => {
   return (
     <>
-
+      <Home />
     </>
   )
 }
